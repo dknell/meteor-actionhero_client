@@ -1,0 +1,9 @@
+{
+	"name": "actionhero_client",
+	"description": "actionhero_client packaged for Meteor.",
+	"homepage": "https://github.com/dbubs/meteor-actionhero_client",
+	"author": "David Knell",
+	"version": "2.0.0",
+	"git": "https://github.com/dbubs/meteor-actionhero_client.git",
+	"packages": {}
+}

@@ -1,0 +1,1 @@
+actionhero_client = Npm.require('actionhero_client');
