@@ -5,5 +5,5 @@ Package.describe({
 Npm.depends({ 'actionhero_client': '2.0.0' });
 
 Package.on_use(function (api) {
-	api.add_files('actionhero_client.js', 'server');
+	api.add_files('actionheroclient.js', 'server');
 });
